@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6121737529",
+    "project_id": "relay-34040",
+    "storage_bucket": "relay-34040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6121737529:android:a675361231f60316ddace8",
+        "android_client_info": {
+          "package_name": "com.example.relay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6121737529-vk9i2k6lm2nra2il03j4ons2tpsdcepl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRntqF2jqaUd6gay0QnUz8YN_U3AxC1dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6121737529-vk9i2k6lm2nra2il03j4ons2tpsdcepl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
